@@ -34,11 +34,11 @@ body{
 
 .left .img_holder{
 	text-align: center;
-	padding: 20px 0;
+	padding: 10px 0;
 }
 
 .left .img_holder img{
-	width: 200px;
+	width: 150px;
 	border-radius: 30px;
 }
 
